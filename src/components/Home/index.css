@@ -1,0 +1,26 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+.home-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.home-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading {
+  font-size: 42px;
+  font-family: roboto;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.card-img {
+  height: 100%;
+}
